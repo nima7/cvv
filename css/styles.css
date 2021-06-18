@@ -1,0 +1,70 @@
+body{
+  text-align: center;
+  margin: 0px;
+  background-color: #693C72;
+
+}
+
+.mountain{
+  height: 700px;
+  width: 1540px;
+
+}
+h1{
+
+  position: absolute;
+  top: 20px;
+  left: 630px;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.50rem;
+  color: #0A1D37;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+img{
+  width: 150px;
+  height: 150px;
+}
+.food{
+  width: 200px;
+  height: 200px;
+  float: right;
+  position: absolute;
+  right: 50px;
+  bottom: 100px;
+
+
+
+}
+.img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 300px;
+}
+.shit{
+  position: absolute;
+  top: 140px;
+  left: 670px;
+  font-size: 1.66rem;
+  color: #0A1D37;
+  font-weight: bold;
+}
+.skill-row{
+  width: 50%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+.m{
+  margin-left: 60px;
+}
+.m2{
+  margin-left: 60px;
+}
